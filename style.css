@@ -1,0 +1,31 @@
+:root {
+    --primary-color: #0790f1;
+}
+
+
+/* navbar */
+
+.navbar {
+    background-color: var(--primary-color);
+}
+
+
+/* navbar */
+
+/* svg */
+
+.header-logo {
+    width: 24px;
+    height: 24px;
+    filter: invert(91%) sepia(87%) saturate(646%) hue-rotate(314deg) brightness(99%) contrast(104%);
+}
+/* svg */
+
+/* buttoms */
+
+.button-secondary{
+    color:#252F94 ;
+    background-color: #ffffff;
+}
+
+/* buttons */
